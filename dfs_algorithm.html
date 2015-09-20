@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Depth-First Search Algoritm</title>
+	<script src="js/maze.js"></script>
+</head>
+<body>
+	<canvas id="canva" width="700" height="700"></canvas>
+	<script>
+		var maze = new Maze(document.getElementById("canva"), 20, 20, 20, 20, 20);
+		maze.dfs.start();
+		var timer = setInterval(function() {
+			if (!maze.dfs.step()) clearInterval(timer);
+			maze.draw();
+		}, 40);
+	</script>
+</body>
+</html>

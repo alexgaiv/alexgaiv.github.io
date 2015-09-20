@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Prim Algorithm</title>
+	<script src="js/maze.js"></script>
+</head>
+<body>
+	<canvas id="canva" width="500" height="500"></canvas>
+	<script>
+		var maze = new Maze(document.getElementById("canva"), 20, 20, 30, 30, 15);
+		maze.prim.start();
+		var timer = setInterval(function() {
+			if (!maze.prim.step()) clearInterval(timer);
+			maze.draw();
+		}, 30);
+	</script>
+</body>
+</html>

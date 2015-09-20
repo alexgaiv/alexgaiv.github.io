@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Maze Solver</title>
+	<style>
+		body {
+			font-family: Tahoma;
+			font-size: 16px;
+		}
+		#wrap {
+			display: inline-block;
+			margin: 20px 0 0 20px;
+		}
+		#generate {
+			margin: 6px 0 0 12px;
+			padding: 3px 17px;
+		}
+	</style>
+	<script src="js/maze.js"></script>
+</head>
+<body>
+	<canvas id="canva" width="450" height="450" style="float:left"></canvas>
+	<div id="wrap">
+		<table>
+			<tr><td colspan="2">Algorithm:</td></tr>
+			<tr>
+				<td><input type = "radio" name="algo" id="dfs"/></td>
+				<td><label for="dfs">DFS</label></td>
+			</tr>
+			<tr>
+				<td><input type = "radio" name="algo" id="prim"/></td>
+				<td><label for="prim">Prim</label></td>
+			</tr>
+			<tr>
+				<td><input type = "radio" name="algo" id="kruskal" checked="checked"/></td>
+				<td><label for="kruskal">Kruskal</label></td>
+			</tr>
+			<tr>
+				<td colspan="2">
+					<button id="generate">Generate</button>
+				</td>
+			</tr>
+		</table>
+		<br>
+	</div>
+	<script src="js/maze_solver.js"></script>
+</body>
+</html>
