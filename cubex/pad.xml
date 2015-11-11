@@ -89,7 +89,7 @@
     <Application_URLs>
       <Application_Info_URL>http://alexgaiv.github.io/cubex/</Application_Info_URL>
       <Application_Screenshot_URL>http://alexgaiv.github.io/cubex/screenshots/1.png</Application_Screenshot_URL>
-      <Application_Icon_URL>https://github.com/alexgaiv/cubex/raw/master/cubex/images/app.ico</Application_Icon_URL>
+      <Application_Icon_URL>http://raw.githubusercontent.com/alexgaiv/alexgaiv.github.io/master/cubex/app_large.png</Application_Icon_URL>
       <Application_XML_File_URL>http://raw.githubusercontent.com/alexgaiv/alexgaiv.github.io/master/cubex/pad.xml</Application_XML_File_URL>
       <Application_Order_URL></Application_Order_URL>
     </Application_URLs>
