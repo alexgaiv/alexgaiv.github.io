@@ -1,27 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <XML_DIZ_INFO>
-  <MASTER_PAD_VERSION_INFO>
-    <MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
-    <MASTER_PAD_EDITOR>PADManager 2.0.76</MASTER_PAD_EDITOR>
-    <MASTER_PAD_EDITOR_URL>http://robosoft.rudenko.com</MASTER_PAD_EDITOR_URL>
-    <MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://www.asp-shareware.org/pad</MASTER_PAD_INFO>
-  </MASTER_PAD_VERSION_INFO>
-  <RoboSoft>
-    <Company_UIN>CMP-00FB0B721D9</Company_UIN>
-    <Company_Description></Company_Description>
-    <Product_UIN>APP-00FB0B9DCDE</Product_UIN>
-    <Publish_on_CD>FALSE</Publish_on_CD>
-    <RSProductType></RSProductType>
-    <Search_String></Search_String>
-    <Press_Release_Search_String></Press_Release_Search_String>
-    <NewsFeed_Search_String></NewsFeed_Search_String>
-    <Search_Engine_Search_String></Search_Engine_Search_String>
-    <Web_Directories_Search_String></Web_Directories_Search_String>
-    <Search_String_Unique></Search_String_Unique>
-    <Comments_For_Reviewer></Comments_For_Reviewer>
-    <Backlink></Backlink>
-  </RoboSoft>
-  <Company_Info>
+  <COMPANY_INFO>
     <Company_Name>Alexander Gaivanuk</Company_Name>
     <Address_1>Russia</Address_1>
     <Address_2></Address_2>
@@ -47,25 +26,7 @@
       <General_Phone></General_Phone>
       <Fax_Phone></Fax_Phone>
     </Support_Info>
-  </Company_Info>
-  <NewsFeed>
-    <NewsFeed_FORM>Y</NewsFeed_FORM>
-    <NewsFeed_VERSION>1.0</NewsFeed_VERSION>
-    <NewsFeed_URL>http://Submit-Everywhere.com/extensions/NewsFeed.htm</NewsFeed_URL>
-    <NewsFeed_DESCRIPTION>This PAD extension allows you to add your RSS and Atom news feeds info into your PAD file. This info can be used by RSS feed submission software or by feed directories themselves.</NewsFeed_DESCRIPTION>
-    <NewsFeed_Type>RSS 0.90</NewsFeed_Type>
-    <NewsFeed_Language>English</NewsFeed_Language>
-    <NewsFeed_Purpose>News</NewsFeed_Purpose>
-    <NewsFeed_Author_Email>alexgaiv0748@gmail.com</NewsFeed_Author_Email>
-    <NewsFeed_Author_First_Name>Alexander</NewsFeed_Author_First_Name>
-    <NewsFeed_Author_Last_Name>Gaivanuk</NewsFeed_Author_Last_Name>
-    <NewsFeed_Feed_URL></NewsFeed_Feed_URL>
-    <NewsFeed_Site_Name></NewsFeed_Site_Name>
-    <NewsFeed_Site_URL></NewsFeed_Site_URL>
-    <NewsFeed_Title></NewsFeed_Title>
-    <NewsFeed_Description_70></NewsFeed_Description_70>
-    <NewsFeed_Description_250></NewsFeed_Description_250>
-  </NewsFeed>
+  </COMPANY_INFO>
   <Site>
     <Site_FORM>Y</Site_FORM>
     <Site_VERSION>1.0</Site_VERSION>
