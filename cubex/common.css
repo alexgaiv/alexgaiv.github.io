@@ -19,8 +19,8 @@ body {
 }
 .tabs {
     padding: 0;
-    margin: 4px;
-    border-radius: 5px;
+    margin: 3px;
+    border-radius: 3px;
     background: #888888;
     background: -webkit-linear-gradient(#ADA9A9, #888888);
     background: -o-linear-gradient(#ADA9A9, #888888);
