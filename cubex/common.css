@@ -24,7 +24,7 @@ body {
     background: #888888;
     background: -webkit-linear-gradient(#ADA9A9, #888888);
     background: -o-linear-gradient(#ADA9A9, #888888);
-    background: linear-gradient(#ADA9A9, );
+    background: linear-gradient(#ADA9A9, #888888);
     height: 40px;
     list-style: none;
     text-align: center;
