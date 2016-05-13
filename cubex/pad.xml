@@ -108,8 +108,8 @@
       <Application_XML_File_URL>http://raw.githubusercontent.com/alexgaiv/alexgaiv.github.io/master/cubex/pad.xml</Application_XML_File_URL>
     </Application_URLs>
     <Download_URLs>
-      <Primary_Download_URL>http://alexgaiv.github.io/cubex/setup_cubex_1.2.2.exe</Primary_Download_URL>
-      <Secondary_Download_URL>http://github.com/alexgaiv/alexgaiv.github.io/raw/master/cubex/setup_cubex_1.2.2.exe</Secondary_Download_URL>
+      <Primary_Download_URL>https://github.com/alexgaiv/cubex/releases/download/v1.2.2/setup_cubex_1.2.2.exe</Primary_Download_URL>
+      <Secondary_Download_URL>https://github.com/alexgaiv/cubex/raw/master/setup/setup_cubex_1.2.2.exe</Secondary_Download_URL>
       <Additional_Download_URL_1></Additional_Download_URL_1>
       <Additional_Download_URL_2></Additional_Download_URL_2>
     </Download_URLs>
